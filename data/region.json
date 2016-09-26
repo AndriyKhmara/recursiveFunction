@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "region_name": "Rivne"
+  },
+   {
+    "id": 2,
+    "region_name": "Odesa"
+  },
+  {
+    "id": 3,
+    "region_name": "Lutsk"
+  },
+  {
+    "id": 4,
+    "region_name": "Lviv"
+  },
+  {
+    "id": 5,
+    "region_name": "Kyiv"
+  }
+]

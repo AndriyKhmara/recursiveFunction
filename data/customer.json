@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "customer_name": "vasya"
+  },
+   {
+    "id": 2,
+    "customer_name": "tasya"
+  },
+  {
+    "id": 3,
+    "customer_name": "rasya"
+  },
+  {
+    "id": 4,
+    "customer_name": "masya"
+  },
+  {
+    "id": 5,
+    "customer_name": "nasya"
+  }
+]
