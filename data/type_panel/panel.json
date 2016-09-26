@@ -1,0 +1,26 @@
+[
+  {   "panel_id": 1,
+      "panel_type": "Luxe",
+      "panel_price": 290
+   },
+	{ "panel_id": 2,
+      "panel_type": "Luxe",
+      "panel_price": 240
+   },   
+   {  "panel_id": 3,
+      "panel_type": "Luxe",
+      "panel_price": 280
+   },
+   {  "panel_id": 4,
+      "panel_type": "Luxe",
+      "panel_price": 270
+   },
+   {  "panel_id": 5,
+      "panel_type": "Luxe",
+      "panel_price": 290
+   },
+   {  "panel_id": 6,
+      "panel_type": "Luxe",
+      "panel_price": 280
+   }
+]
