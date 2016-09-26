@@ -1,0 +1,44 @@
+	[{
+		"customers" : [{
+				"id":1,
+				"name":"one"
+			},
+			{
+				"id":2,
+				"name":"two"
+			},
+			{
+				"id":3,
+				"name":"three"
+			},
+			{
+				"id":4,
+				"name":"fore"
+			}
+			],
+			"workers" : {
+				"workersA" : [
+					{
+						"id":"1",
+						"job":"job-1"
+					},
+					{
+						"id":2,
+						"job":"job-2"
+					},
+					{
+						"id":3,
+						"job":"job-3"
+					},
+					{
+						"id":4,
+						"job":"job-4"
+					}
+				],
+				"workersB" : {
+					"id" : 1,
+					"name": "Sasha",
+					"job": "job-1"
+				}
+			}
+	}]
